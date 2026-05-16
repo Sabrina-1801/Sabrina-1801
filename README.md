@@ -1,23 +1,26 @@
-#Sabrina-1801
+# sabrina-page 
 
-#Olá, eu sou a Sabrina Gabriela! 👋
+# Olá, eu sou a Sabrina Gabriela! 👋
 
 Atualmente, estou trilhando meu caminho na tecnologia através da graduação e de cursos complementares.
-Desenvolvedora focada em estruturas lógicas.
+Desenvolvedora focada em estruturas lógicas
 ---
 
-##👩‍💻 Sobre Mim
-*🎓 Graduação: Cursando Ciência da Computação no UniCEUB.
-*🚀 Estudos práticos: Aluna na Alura, focada em desenvolvimento de software.
-*🗣️ Idiomas: Inglês fluente.
+## 👩‍💻 Sobre Mim
 
----
-
-##🛠️ Habilidades e Aprendizado
-*Estusdos atuais: Python, C e Java (focando em lógica e fundamentos).
+* 🎓 Graduação: Cursando Ciência da Computação no UniCEUB.
+* 🚀 Estudos práticos: Aluna na Alura, focada em desenvolvimento de software. 
+* 🗣️ Idiomas: Inglês fluente.
 
 ---
 
-##Meus contatos
-*💼 Meu LinkedIn: (www.linkedin.com/in/sabrina-gabriela-a2b684189)
-*📧 Meu email: (sabrinasgadp@gmail.com)
+## 🛠️ Habilidades e Aprendizado
+
+* Estusdos atuais: Python, C e Java (focando em lógica e fundamentos).
+
+---
+
+## Meus contatos
+
+* 💼 Meu LinkedIn: (www.linkedin.com/in/sabrina-gabriela-a2b684189)
+* 📧 Meu email: (sabrinasgadp@gmail.com)
