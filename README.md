@@ -1,5 +1,7 @@
 #Sabrina-1801
+
 Olá, eu sou a Sabrina Gabriela! 👋
+
 Atualmente, estou trilhando meu caminho na tecnologia através da graduação e de cursos complementares.
 Desenvolvedora focada em estruturas lógicas
 ---
