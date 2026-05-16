@@ -1,16 +1,21 @@
-## Hi there 👋
+#Sabrina-1801
+Olá, eu sou a Sabrina Gabriela! 👋
+Atualmente, estou trilhando meu caminho na tecnologia através da graduação e de cursos complementares.
+Desenvolvedora focada em estruturas lógicas
+---
 
-<!--
-**Sabrina-1801/Sabrina-1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Sobre Mim
+🎓 Graduação: Cursando Ciência da Computação no UniCEUB.
+🚀 Estudos práticos: Aluna na Alura, focada em desenvolvimento de software.
+🗣️ Idiomas: Inglês fluente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Habilidades e Aprendizado
+Estusdos atuais: Python, C e Java (focando em lógica e fundamentos).
+
+---
+
+Meus contatos
+💼 Meu LinkedIn: (www.linkedin.com/in/sabrina-gabriela-a2b684189)
+📧 Meu email: (sabrinasgadp@gmail.com)
