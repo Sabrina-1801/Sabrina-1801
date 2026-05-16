@@ -3,13 +3,13 @@
 # Olá, eu sou a Sabrina Gabriela! 👋
 
 Atualmente, estou trilhando meu caminho na tecnologia através da graduação e de cursos complementares.
-Desenvolvedora focada em estruturas lógicas
+Desenvolvedora focada em estruturas lógicas e machine learning.
 ---
 
 ## 👩‍💻 Sobre Mim
 
 * 🎓 Graduação: Cursando Ciência da Computação no UniCEUB.
-* 🚀 Estudos práticos: Aluna na Alura, focada em desenvolvimento de software. 
+* 🚀 Estudos práticos: Aluna na Alura. 
 * 🗣️ Idiomas: Inglês fluente.
 
 ---
