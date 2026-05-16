@@ -24,3 +24,4 @@ Desenvolvedora focada em estruturas lógicas e machine learning.
 
 * 💼 Meu LinkedIn: (www.linkedin.com/in/sabrina-gabriela-a2b684189)
 * 📧 Meu email: (sabrinasgadp@gmail.com)
+- **Projeto ativo:** [PortflioHUB](https://sabrina-1801.github.io/Portif-lio-meu/)
